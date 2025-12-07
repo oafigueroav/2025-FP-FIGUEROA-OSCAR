@@ -1,2 +1,2 @@
-# 2025-FP-FIGUEROA-OSCAR
-Repositorio de código fuente utilizado en la Asignatura Fundamentos de Programación Institución: Universidad Estatal Amazónica Carrera: Ingeniería en Tecnologías de la Información y Comunicación Docente: Ing. Edwin Gustavo Fernández Sánchez, Mgs
+# 2025-2026 FP-FIGUEROA-OSCAR
+Repositorio de código fuente utilizado en la Asignatura PROGRAMACION ORIENTADA A OBJETOS (A) -- UEA-L-UFB-030-A: Universidad Estatal Amazónica Carrera: Ingeniería en Tecnologías de la Información y Comunicación Docente: Ing. Kevin Bolívar Lascano Sánchez, Mgs
